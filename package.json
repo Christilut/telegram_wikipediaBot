@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^4.0.6",
-    "mongoose-findorcreate": "^0.1.2",
+    "mongoose-findorcreate": "^0.1.2"
   }
 }
