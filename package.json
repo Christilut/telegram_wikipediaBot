@@ -1,0 +1,15 @@
+{
+  "name": "wikipediabot",
+  "version": "0.1.0",
+  "description": "Telegram bot that searches Wikipedia",
+  "main": "wikipediabot.coffee",
+  "scripts": {
+    "test": "debug"
+  },
+  "author": "@Christilut",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.0.6",
+    "mongoose-findorcreate": "^0.1.2",
+  }
+}
